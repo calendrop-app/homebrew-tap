@@ -1,6 +1,6 @@
 cask "calendrop" do
-  version "0.6.1"
-  sha256 "6adabdfe70e03fadb54e09cc5f91ab9befa9913123cf21cdb15d5824f77589b3"
+  version "0.7.0"
+  sha256 "af49cdbd85bc15be1e33d6f57c8eb015c11aa8a122cece01b9323760b4141d5f"
 
   url "https://github.com/calendrop-app/Calendrop/releases/download/v#{version}/Calendrop-#{version}-macos-arm64.zip"
   name "Calendrop"
